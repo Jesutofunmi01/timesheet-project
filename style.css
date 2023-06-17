@@ -1,0 +1,139 @@
+
+.head1 {
+  padding-top: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+}
+
+
+.mainTable {
+  
+  display: flex;
+  justify-content: center;
+  
+  padding-top: 30px;
+  
+}
+
+.table {
+  
+  border-collapse: collapse;
+   
+  
+}
+
+
+
+.row1 {
+  background-color: blue;
+  color: white;
+}
+
+.r11 {
+  
+  justify-content: center;
+  padding-left: 60px;
+  
+}
+
+.r1 {
+  
+  justify-content: center;
+  padding: 20px;
+}
+
+.button {
+  color: red;
+  display: flex;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.time1 {
+  padding-left: 30px;
+}
+
+.time {
+  
+  padding: 10px;
+}
+
+.timeBox {
+  
+  padding: 3px;
+  padding-right: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+
+.totalBox {
+  padding: 3px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  color: white;
+}
+
+.options {
+  padding: 3px;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.div4 {
+ 
+ 
+  background-color: aquamarine;
+  display: flexbox;
+}
+
+.row4 {
+  
+  background-color: rgb(200, 219, 214);
+  justify-content: center;
+  
+
+}
+.timeBox4 {
+  padding: 3px;
+  
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+  color: white;
+}
+
+.buttonAll {
+  color: white;
+  background-color: red;
+  display: flex;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.buttonNew {
+  color: white;
+  background-color: rgb(7, 131, 114);
+  display: flex;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.buttonSave {
+  color: white;
+  background-color: rgb(7, 131, 114);
+  display: flex;
+  border-radius: 5px;
+  border-width: 1px;
+}
